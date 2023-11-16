@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0FqZnU8dZCsSSdDfSSkzMPTxr6zLmzKUq7qz226t5Eh5Ees6C6+ujPZGVmSwzjIluAYxJQ07mZSiGuW4jVRz3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Circle_Test\\Circle_Test_Console\\Circle_Test_Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
